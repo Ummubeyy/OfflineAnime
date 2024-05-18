@@ -32,7 +32,7 @@
 - Advanced search capabilities
 
 7. Recommendations and Related Videos
-- Algorithm for suggesting videos
+- Algorithm for suggesting videos (if the user is ok)
 - Related videos section
 - Personalized recommendations
 
@@ -75,20 +75,20 @@
 Every shortcuts here it can be change in the settings page. The letter located in the footnote ("text") is a button in the keyboard. if the user start typing and reach the most long shortcut words (9), fi move the search of the user in the search bar.
 
 1. debug: Open a frame with every logs listed. (log logs is defaultly off)
-2. n: Goto the next video/episode.
-3. p: Goto the previus video/episode.
+2. n: Go to the next video/episode.
+3. p: Go to the previus video/episode.
 4. "space": Pause the video. (idk if we can without an extension)
 5. ilovethis: Give to the currently user a advencement.
 6. "tab": Switch between different elements in the page like a button or search bar and make a border.
-7. s: show the synopsis of the current anime if awaible.
+7. s: show the synopsis of the current anime if avaible.
 8. r: rechsearch in the search bar.
 9. d: show the downloader frame.
-10. optimize (or opti): Make the website just for watching remove everything is unusefull to watch their anime.
+10. optimize (or opti): Make the website just for watching, remove everything unusefull to watch their anime.
 11. f: Add the current anime to favorite playlist. (if the user does not delete this playlist)
 12. w: Add the current anime to watched playlist. (if the user does not delete this playlist)
 13. l: Add the current anime to watch-it-later playlist. (if the user does not delete this playlist)
 14. i: open up a frame and give every information about current state of the anime to the name of anime in a frame and make this sharable.
-15. fr (or en,uk,it,...): change the language of the current anime to the given lang-code language if awaible.
+15. fr (or en,uk,it,...): change the language of the current anime to the given lang-code if the language is available.
 16. lama: open the llama3 ai and do anything you want.
 17. ai: open a frame to select an ai model, for video, audio and text.
 18. q: open the quote of the currently user only if awaible.
@@ -97,9 +97,9 @@ Every shortcuts here it can be change in the settings page. The letter located i
 21. v: vote for the currently opened anime page to be added soon.
 22. a: change the page look to google.com and cut the video player if is on and make it MISS (see arch linux main page)
 23. help: show a frame with differents helps category and give a link to the github wiki.
-24. lobby (or hub,spawn): Goto the main page. (We don't play Minecraft)
-25. hack: open a frame and explain why hacking is not a good thing todo. (and give a h@cker advancement)
-26. random: open a rondom page of an anime.
+24. lobby (or hub,spawn): Go to the main page. (We don't play Minecraft)
+25. hack: open a frame and explain why hacking is not a good thing to do. (and give a h@cker advancement)
+26. random: open a random page of an anime.
 27. awesome: print a rainbow with animation!
 
 
